@@ -7,6 +7,7 @@ Seja Bem vindo ao README da Toca do Vinil versão mobile. Logo abaixo se encontr
 <br>
 
 
+
 ## ➡️Introdução
 
 Este é um projeto desenvolvido em React Native que implementa um CRUD (Create, Read, Update, Delete) para gerenciar uma coleção de vinis. A aplicação permite que os usuários adicionem, visualizem, atualizem e excluam vinis de sua coleção de forma intuitiva e eficiente.
